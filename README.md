@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @canpolat-omer
+- 👋 Hi, I’m Ömer Canpolat
 - 👀 I’m interested in data
-- 🌱 I’m currently learning SQL,Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me canpolat.omer@outlook.com ..
 
